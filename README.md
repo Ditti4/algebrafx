@@ -7,6 +7,6 @@ If you encounter any bugs or other problems feel free to submit an issue to the 
 
 I will add stuff over time so if there's nothing interesting for you yet, keep an eye on it anyway because the repo will grow over time.
 
-**Note**: I'm only going to add stuff *I* made. Programs made by other people won't be uploaded here (if the creator doesn't message me with a request to add their program).
+**Note**: I'm only going to add stuff *I* made. Programs made by other people won't be uploaded here (unless someone messages me to add their program).
 
 **Another note**: most of this will be in German. I will create folders for each program and attach some tag for the language though.
