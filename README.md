@@ -10,3 +10,5 @@ I will add stuff over time so if there's nothing interesting for you yet, keep a
 **Note**: I'm only going to add stuff *I* made. Programs made by other people won't be uploaded here (unless someone messages me to add their program).
 
 **Another note**: most of this will be in German. I will create folders for each program and attach some tag for the language though.
+
+**One more (hopefully) final note**: first, these programs come without any warranty. I'm not responsible for any data loss, failed test or dead pets. Secondly, these programs will look broken on your PC (or any other device) with the default font. You will need a special font supplied by FX-INTERFACE PROFESSIONAL (which I can't link here because I can't find the link) to properly see all the symbols. I can't fix this and I'm sorry for this but you need this program anyway if you want to transfer the files to your calculator.
