@@ -1,0 +1,29 @@
+"NUMBER"?ºN
+"BIT"?ºB
+1ºX
+1ºY
+ClrText
+ClrGraph
+Do
+If Nã2^B
+Then 
+Text Y,X,"1"
+N-2^BºN
+Else 
+Text Y,X,"0"
+IfEnd
+X+5ºX
+If 25©Frac (((X-1)/5)/25)=0
+Then 
+1ºX
+Y+7ºY
+IfEnd
+B-1ºB
+If B=0
+Then 
+0ºK
+Do
+GetKeyºK
+LpWhile K=0
+IfEnd
+LpWhile B>0
