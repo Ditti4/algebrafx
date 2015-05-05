@@ -1,0 +1,42 @@
+4ºZ
+Deg
+Lbl M
+GridOff
+AxesOff
+CoordOff
+LabelOff
+Text 1,1,"ANALYSE ORGANISCHER STOFFE"
+Text 10,1,"(2) QUANTITATIVE ANALYSE"
+Text 17,1,"(3) MOLMASSEBESTIMMUNG"
+Text 24,1,"(4) BERECHNUNG DER SF"
+If Z=4
+Then 
+Text 40,1,"!!!RUNNING IN DEBUG MODE!!!"
+Text 51,1,"0 Hilfe"
+Text 58,1,"ESC Beenden"
+0ºK
+Do
+GetKeyºK
+LpWhile K=0
+If K=47
+Then 
+ClrGraph
+ClrText
+Stop
+Else If K=62
+Then 
+Goto 2
+Else If K=52
+Then 
+Prog "MOLVOL"
+Else If K=44
+Then 
+Goto Y
+Else 
+"Bitte eine gueltige Option nutzen."
+ClrText
+Goto M
+IfEnd
+IfEnd
+IfEnd
+IfEnd
